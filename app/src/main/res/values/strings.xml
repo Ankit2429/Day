@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DAY</string>
+    <string name="widget_small_name">DAY Quick</string>
+    <string name="widget_small_description">Upcoming urgent tasks and active count</string>
+    <string name="widget_large_name">DAY Agenda</string>
+    <string name="widget_large_description">Full schedule with quick task creation</string>
+</resources>
