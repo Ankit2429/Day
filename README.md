@@ -69,28 +69,8 @@ Combining a distinct **Neo-Brutalist UI** (high-contrast borders, tactile feedba
 ## 📸 Screenshots & UI Gallery
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="docs/screenshots/preview_real.png" alt="DAY Live Dashboard Preview" width="100%" />
-        <br /><b>Daily Timeline & Live Overview</b>
-      </td>
-      <td align="center" width="50%">
-        <img src="docs/screenshots/preview_today.png" alt="Today Screen & Tasks" width="100%" />
-        <br /><b>Interactive Task Management</b>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="50%">
-        <img src="docs/screenshots/preview_timeline.png" alt="24-Hour Timeline View" width="100%" />
-        <br /><b>Visual 24-Hour Day Planner</b>
-      </td>
-      <td align="center" width="50%">
-        <img src="docs/screenshots/preview_tasks.png" alt="Tasks & Quick Actions" width="100%" />
-        <br /><b>Neo-Brutalist Component System</b>
-      </td>
-    </tr>
-  </table>
+  <img src="docs/screenshots/preview_today.png" alt="DAY App Preview - Today Screen & Tasks" width="400" />
+  <br /><b>Interactive Task Management & Schedule</b>
 </div>
 
 ---
